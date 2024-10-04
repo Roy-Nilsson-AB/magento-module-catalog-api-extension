@@ -6,7 +6,6 @@
     "config": {
         "sort-packages": true
     },
-    "version": "104.0.6-p2",
     "require": {
         "magento/module-catalog": "104.0.*"
     },
